@@ -30,9 +30,9 @@ DB_NAME=
 JWT_SECRET=
 ```
 
-### Setup Prisma
+### Setup Sequelize
 
-Add MySQL Database (I used a Virtual Machine with Linux and MySQL)
+Add Postgres SQL Database
 
 ```shell
 npm install --save-dev sequelize-cli
